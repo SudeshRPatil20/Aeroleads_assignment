@@ -1,0 +1,1 @@
+ # Scrape LinkedIn and save profile data - This is not easy work as LinkedIn will ask you to log in. Maybe try to create a test account and go via Google.com (enter the url in Google, enter the url, open the 1st link). May be scrape other sites which have linkedIn data? 
