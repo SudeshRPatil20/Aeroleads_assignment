@@ -1,0 +1,1 @@
+# Generate 10 articles on various programming topics using AI tools and put it in the above app under /blog. Can you add an AI prompt so I can just type the list of titles with some details, and it will generate the content?
